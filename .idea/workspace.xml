@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7330f2b7-fc81-403d-85a1-ffb969f91246" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/auth.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/auth.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/auth.interceptor.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/auth.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/user.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/core.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/logging.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipe.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipes-resolver.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipes.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipes.routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/alert/alert.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/alert/alert.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/alert/alert.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/data-storage.serivce.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/dropdown.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/loading-spinner/loader-spinner.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/loading-spinner/loader-spinner.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/placeholder/placeholder.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/shared.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipes.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipes.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/ingredient.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/ingredient.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yu8GPmGpB2S2qymlqhwyjfcMmP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/shopping-list" />
+      <recent name="$PROJECT_DIR$/src/app/shopping-list/shopping-edit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (proyecto)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (proyecto)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7330f2b7-fc81-403d-85a1-ffb969f91246" name="Default Changelist" comment="" />
+      <created>1583781022736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583781022736</updated>
+      <workItem from="1583781024011" duration="5677000" />
+      <workItem from="1583790316604" duration="1065000" />
+      <workItem from="1583791398023" duration="2394000" />
+      <workItem from="1583793809300" duration="4192000" />
+      <workItem from="1583853956339" duration="18229000" />
+      <workItem from="1584459215976" duration="9951000" />
+      <workItem from="1584490343837" duration="4003000" />
+      <workItem from="1589409382456" duration="1339000" />
+      <workItem from="1589472211078" duration="2135000" />
+      <workItem from="1589474553134" duration="15547000" />
+      <workItem from="1589813794293" duration="16530000" />
+      <workItem from="1589897397562" duration="18861000" />
+      <workItem from="1590070364929" duration="633000" />
+      <workItem from="1590098891716" duration="1609000" />
+      <workItem from="1590162005246" duration="4946000" />
+      <workItem from="1590513817669" duration="643000" />
+      <workItem from="1591716041052" duration="13856000" />
+      <workItem from="1591801480519" duration="9694000" />
+      <workItem from="1591920219139" duration="31000" />
+      <workItem from="1592957643996" duration="15000" />
+      <workItem from="1593208481973" duration="657000" />
+      <workItem from="1593212098098" duration="27000" />
+      <workItem from="1593454434258" duration="11855000" />
+      <workItem from="1594131839038" duration="13632000" />
+      <workItem from="1594222072818" duration="14993000" />
+      <workItem from="1594305792361" duration="37823000" />
+      <workItem from="1594650222247" duration="38154000" />
+      <workItem from="1594756176999" duration="7624000" />
+      <workItem from="1594820608029" duration="6179000" />
+      <workItem from="1594932354357" duration="237000" />
+      <workItem from="1595617759164" duration="52000" />
+      <workItem from="1595620434440" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2134" y="258" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1589480959266">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2134" y="258" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589480959266" />
+    <state x="466" y="163" width="518" height="420" key="FileChooserDialogImpl" timestamp="1595617809982">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="2021" y="198" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589409414278" />
+    <state x="466" y="163" width="518" height="420" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1595617809982" />
+    <state x="463" y="128" width="588" height="580" key="find.popup" timestamp="1594741917686">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="2017" y="147" width="618" height="783" key="find.popup/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589475635622" />
+    <state x="463" y="128" width="588" height="580" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1594741917686" />
+    <state x="344" y="189" key="run.anything.popup" timestamp="1594658241109">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="1850" y="236" key="run.anything.popup/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589491920154" />
+    <state x="344" y="189" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1594658241109" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1594744901260">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1594744901260" />
+  </component>
+</project>
